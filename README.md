@@ -10,16 +10,11 @@
 
 ---
 
-### ☕ Java / Minecraft
+### 🚀 Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
 | ⚔️ **[PartnerItems](https://github.com/vpapirian/PartnerItems)** | HCF partner items plugin: 8 configurable abilities (Switcher, Ninja Star, Anti-Pearl, Anti-Build and more) with per-item and global cooldowns, NBT item tagging, safezone hooks for HCF cores, and optional Redis sync across servers | Java · Spigot 1.8.8 · Gradle · Redis |
-
-### 🚀 Other projects
-
-| Project | What it is | Stack |
-|---|---|---|
 | 🎙️ **[Jarvis](https://github.com/vpapirian/jarvis)** | Voice assistant for Windows that answers questions and controls your PC, browser and Spotify | Python · Claude API · Whisper |
 | 🌐 **[Nexus Discord Bot](https://github.com/vpapirian/nexus-discord-bot)** | Builds a full LoL community server with one command, including onboarding and verification | Python · discord.py |
 | 📊 **[LoL MicroCoach Pro](https://github.com/vpapirian/lol-microcoach-pro)** | Live in-game dashboard that scores your micro play | Python · Streamlit · Plotly |
