@@ -2,7 +2,7 @@
 
 # Hey, I'm Vatche 👋
 
-**CS student · builder of AI assistants, Discord bots and League of Legends tools**
+**CS student · Java & Minecraft plugin developer · also builds AI assistants, Discord bots and League of Legends tools**
 
 [![GitHub](https://img.shields.io/badge/GitHub-vpapirian-181717?logo=github)](https://github.com/vpapirian)
 
@@ -10,7 +10,13 @@
 
 ---
 
-### 🚀 Featured projects
+### ☕ Java / Minecraft
+
+| Project | What it is | Stack |
+|---|---|---|
+| ⚔️ **[PartnerItems](https://github.com/vpapirian/PartnerItems)** | HCF partner items plugin: 8 configurable abilities (Switcher, Ninja Star, Anti-Pearl, Anti-Build and more) with per-item and global cooldowns, NBT item tagging, safezone hooks for HCF cores, and optional Redis sync across servers | Java · Spigot 1.8.8 · Gradle · Redis |
+
+### 🚀 Other projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -22,6 +28,15 @@
 | 🐍 **[CS Coursework](https://github.com/vpapirian/cs-coursework)** | 20 labs and homework assignments from intro Python | Python |
 
 ### 🛠️ Tech I use
+
+**Java & Minecraft**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot-F7CF0D?logoColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
+
+**Everything else**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
