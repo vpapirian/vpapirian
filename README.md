@@ -2,7 +2,7 @@
 
 # Hey, I'm Vatche 👋
 
-**CS student · Java & Minecraft plugin developer · also builds AI assistants, Discord bots and League of Legends tools**
+**CS student · Java & Minecraft plugin developer · AI assistants, Discord bots and gaming tools**
 
 [![GitHub](https://img.shields.io/badge/GitHub-vpapirian-181717?logo=github)](https://github.com/vpapirian)
 
@@ -14,13 +14,13 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| ⚔️ **[PartnerItems](https://github.com/vpapirian/PartnerItems)** | HCF partner items plugin: 8 configurable abilities (Switcher, Ninja Star, Anti-Pearl, Anti-Build and more) with per-item and global cooldowns, NBT item tagging, safezone hooks for HCF cores, and optional Redis sync across servers | Java · Spigot 1.8.8 · Gradle · Redis |
-| 🎙️ **[Jarvis](https://github.com/vpapirian/jarvis)** | Voice assistant for Windows that answers questions and controls your PC, browser and Spotify | Python · Claude API · Whisper |
-| 🌐 **[Nexus Discord Bot](https://github.com/vpapirian/nexus-discord-bot)** | Builds a full LoL community server with one command, including onboarding and verification | Python · discord.py |
-| 📊 **[LoL MicroCoach Pro](https://github.com/vpapirian/lol-microcoach-pro)** | Live in-game dashboard that scores your micro play | Python · Streamlit · Plotly |
-| 🎯 **[LoL MicroMotion Coach](https://github.com/vpapirian/lol-microcoach)** | Compares your movement patterns to pros and gives coaching tips | Python · pandas · Streamlit |
-| 🔋 **[Battery Explorer](https://github.com/vpapirian/spider-chart)** | Interactive radar chart comparing battery chemistries | React · Vite · Chart.js |
-| 🐍 **[CS Coursework](https://github.com/vpapirian/cs-coursework)** | 20 labs and homework assignments from intro Python | Python |
+| ⚔️ **[PartnerItems](https://github.com/vpapirian/PartnerItems)** | Network-ready HCF plugin with 8 partner item abilities, layered cooldowns, tamper-proof NBT items and cross-server Redis sync | Java · Spigot 1.8.8 · Gradle · Redis |
+| 🎙️ **[Jarvis](https://github.com/vpapirian/jarvis)** | Voice-controlled desktop assistant that answers questions and runs your PC, browser and Spotify hands-free | Python · Claude API · Whisper |
+| 🌐 **[Nexus Discord Bot](https://github.com/vpapirian/nexus-discord-bot)** | Spins up a complete League of Legends community server in one command, with onboarding and verification built in | Python · discord.py |
+| 📊 **[LoL MicroCoach Pro](https://github.com/vpapirian/lol-microcoach-pro)** | Real-time in-game dashboard that scores your micro play as you play | Python · Streamlit · Plotly |
+| 🎯 **[LoL MicroMotion Coach](https://github.com/vpapirian/lol-microcoach)** | Benchmarks your movement against pro players and turns the gaps into coaching tips | Python · pandas · Streamlit |
+| 🔋 **[Battery Explorer](https://github.com/vpapirian/spider-chart)** | Interactive data visualization comparing battery chemistries side by side | React · Vite · Chart.js |
+| 🐍 **[CS Coursework](https://github.com/vpapirian/cs-coursework)** | 20 labs and assignments covering core programming fundamentals | Python |
 
 ### 🛠️ Tech I use
 
